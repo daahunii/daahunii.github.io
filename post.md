@@ -5,7 +5,7 @@ categories:
   - Blog
 tags:
   - Blog
-last_modified_at: 2022-04-30T18:12:00
+last_modified_at:
 ---
 글작성하기 위해 마크다운을 공부해서 
 좋은 글들을 작성해 보자.
